@@ -1,0 +1,16 @@
+.user-avatar {
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.user-card {
+    border: 1px solid #ccc;
+
+    padding: 16px;
+    text-align: center;
+    width: 400px;
+    margin: 16px;
+    font-family: Arial, sans-serif;
+}
