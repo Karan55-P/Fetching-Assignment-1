@@ -2,7 +2,7 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://Karan55-P.github.io/Fetching-Assignment-1",
+  "App": "https://karan55-p.github.io/Fetching-Assignment-1",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
